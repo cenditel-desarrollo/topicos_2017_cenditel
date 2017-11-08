@@ -9,4 +9,5 @@ $(document).ready(function(){
 	cargar_contenido('#8_pant_proc','8_pantalla_procesamiento.html');
 	cargar_contenido('#9_nueva_estruc','9_nueva_estructura.html');
 	cargar_contenido('#10_pant_nv','10_sistemas.html');
+	cargar_contenido('#11_enlaces','11_enlaces.html');
 });
