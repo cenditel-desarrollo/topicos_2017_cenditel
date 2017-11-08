@@ -10,4 +10,5 @@ $(document).ready(function(){
 	cargar_contenido('#9_nueva_estruc','9_nueva_estructura.html');
 	cargar_contenido('#10_pant_nv','10_sistemas.html');
 	cargar_contenido('#11_enlaces','11_enlaces.html');
+	cargar_contenido('#12_final','12_final.html');
 });
